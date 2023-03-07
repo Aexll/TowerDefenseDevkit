@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Builds/TowerDefense(v0.0.1).rar
+
+Builds/*
